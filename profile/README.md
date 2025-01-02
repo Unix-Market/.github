@@ -1,6 +1,6 @@
 # 🎨 Linux Rices Collection 🍚
 
-Welcome to the **Linux Rices Collection**, the one-stop shop for all your ricing needs! We’re here to help you take your Linux setup to the next level with beautiful, efficient, and downright stunning desktop environments and window manager configurations. If you're looking for that sweet spot between **performance** and **aesthetic appeal**, you're in the right place!
+Welcome to the **Unix-Market**, the one-stop shop for all your ricing needs! We’re here to help you take your Linux setup to the next level with beautiful, efficient, and downright stunning desktop environments and window manager configurations. If you're looking for that sweet spot between **performance** and **aesthetic appeal**, you're in the right place!
 
 This project is maintained by **Sarthak Baranwal**, and it's all about creating the *ultimate* Linux rices using the best bits and pieces from the open-source world. We don’t reinvent the wheel, but we do take existing tools, themes, and configurations—like Alacritty's Gruvbox theme, or a slick i3 config—and combine them to create the perfect, personalized setup just for you.
 
