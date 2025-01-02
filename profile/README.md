@@ -1,7 +1,3 @@
-Ah, got it! So, you’re the one putting together these rices by combining existing materials into one awesome, unified setup! Let’s update the README to reflect that. Here’s a fun version of it:
-
----
-
 # 🎨 Linux Rices Collection 🍚
 
 Welcome to the **Linux Rices Collection**, the one-stop shop for all your ricing needs! We’re here to help you take your Linux setup to the next level with beautiful, efficient, and downright stunning desktop environments and window manager configurations. If you're looking for that sweet spot between **performance** and **aesthetic appeal**, you're in the right place!
