@@ -1,4 +1,4 @@
-# 🎨 Linux Rices Collection 🍚
+# 🎨 Unix-Market 🍚
 
 Welcome to the **Unix-Market**, the one-stop shop for all your ricing needs! We’re here to help you take your Linux setup to the next level with beautiful, efficient, and downright stunning desktop environments and window manager configurations. If you're looking for that sweet spot between **performance** and **aesthetic appeal**, you're in the right place!
 
